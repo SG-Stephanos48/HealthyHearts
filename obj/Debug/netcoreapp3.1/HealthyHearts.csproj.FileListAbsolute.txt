@@ -1,0 +1,11 @@
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.exe
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.deps.json
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.runtimeconfig.json
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.runtimeconfig.dev.json
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.dll
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.pdb
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.AssemblyInfo.cs
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.dll
+C:\Users\steph\source\repos\HealthyHearts\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.pdb
